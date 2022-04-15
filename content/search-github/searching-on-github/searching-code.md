@@ -1,7 +1,7 @@
----
-title: Searching code
-intro: 'You can search for code on {% data variables.product.product_name %} and narrow the results using these code search qualifiers in any combination.'
-redirect_from:
+EVERYTHING EXCELLENT 
+title: EVERYTHING EXCELLENT 
+intro: EVERYTHING EXCELLENT 
+redirect_from:https://github.com/everythingexcellent/EVERYTHING-EXCELLENT-/blob/ae3fba448919aa3b2b7be7313269f0c388d2f80d/.gitignore#L29
   - /articles/searching-code
   - /github/searching-for-information-on-github/searching-files-in-a-repository-for-exact-matches
   - /github/searching-for-information-on-github/searching-code-for-exact-matches
